@@ -1,0 +1,6 @@
+LSM6TurnSensor	KEYWORD1
+
+calibrate	KEYWORD2
+getAngle	KEYWORD2
+resetAngle	KEYWORD2
+setFullScaleDPS	KEYWORD2
